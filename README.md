@@ -54,21 +54,26 @@ Description may contain HTML.
 
 ### Links
 Links can be included to refer the user to external resources relevant to the token. They are represented by a list of key-value pairs, where key is the type of the link. The following types are currently recognized: 
-- Bitcointalk
-- Blog
-- CoinMarketCap
-- Discord
-- Email
-- Facebook
-- Github
-- Reddit
-- Slack
-- Telegram
-- Twitter
-- WeChat
-- Website
-- Whitepaper
-- YouTube
+
+- Website Link: https://banklife.io
+
+- Telegram Group: https://t.me/banklife_io
+
+- Facebook company Link: https://www.facebook.com/Banklife.LIB/
+
+- Facebook Link: https://www.facebook.com/thompson.adam.3701
+
+- Twitter Company Link: https://twitter.com/banklife_io
+
+- Twitter Link: https://twitter.com/adam_thompson3
+
+- LinkedIn Link: https://www.linkedin.com/in/adam-redvers-thompson-67855843/ Reddit Link: https://www.reddit.com/user/adam_thompson3
+
+- Medium Link: https://medium.com/@adam.r.thompson3
+
+- Instagram Link: https://www.instagram.com/adam_banklife/
+
+- YouTube Link: https://www.youtube.com/channel/UC0f8p6h5b7Vv0eQWr6OcngA
 
 Example:
 ```yaml
